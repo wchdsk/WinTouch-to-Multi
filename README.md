@@ -1,4 +1,5 @@
-iNexio触摸信号模拟 @wchdsk
+iNexio触摸信号模拟
+
 当前版本 v0.9
 
 功能：模拟Windows Touch的信号到iNexio的触摸api，可以实现DjMax Technika系列在触摸屏机器下的游玩，测试支持1，2，3代
